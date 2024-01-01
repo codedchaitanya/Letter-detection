@@ -4,7 +4,7 @@ import numpy as np
 import glob 
 
 img=cv2.imread(r"C:\Users\Chaitanya\OneDrive\Desktop\Screenshot (128).png",0)
-# temp=cv2.imread(r"E:\Tech\Coding\Python\OPEN_CV\TimeNR\Large\A.PNG",0)
+# temp=cv2.imread(r"E:\Tech\Coding\Python\OPEN_CV\TimeNR\Large\A.PNG",0) 
 
 
 Templs=glob.glob(r"E:\Tech\Coding\Python\OPEN_CV\TimeNR\Large/*.png")
